@@ -77,9 +77,9 @@ outdated: `scp [file] [location]`
 
 Add public key to `.ssh/authorized_keys` on server
 Connect to server
-    * say hello to server
-    * server creates challenge from public key
-    * requester uses private key to solve challenge
-    * requester sends hashed proof to server
+* say hello to server
+* server creates challenge from public key
+* requester uses private key to solve challenge
+* requester sends hashed proof to server
 
-**Congratulations! You may now utilize you existing SSH connection.**
+**Congratulations! You may now utilize your SSH connection.**
